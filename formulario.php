@@ -16,7 +16,7 @@ if (isset($_SESSION['resultado'])) {
     <title>Gestión de Usuarios</title>
 </head>
 <body>
-    <form action="procesamiento.php" method="POST">
+    <form action="procesamiento.php" method="POST">djsj
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre"><br>
         
